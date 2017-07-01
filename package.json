@@ -1,0 +1,19 @@
+{
+    "name": "weaving-api",
+    "version": "1.0.0",
+    "description": "An API for writing Weaving Strands.",
+    "license": "MIT",
+    "author": {
+        "name": "Mackenzie McClane"
+    },
+    "main": "out/WeavingApi.js",
+    "typings": "out/WeavingApi.d.ts",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aarilight/weaving-api"
+    },
+    "keywords": [
+        "format", "string.format", "string", "strformat", "weaving", "weave", "arguments", "prototype"
+    ]
+}
