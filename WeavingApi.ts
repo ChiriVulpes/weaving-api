@@ -70,7 +70,7 @@ export interface Strand {
 	name: string;
 	match: Matchable;
 	blacklist?: boolean;
-	return: Function;
+	return: (...args: any[]) => string;
 }
 
 export interface API {
